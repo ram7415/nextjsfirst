@@ -3,8 +3,8 @@ import React from "react";
 
 const Layout = ({ children }) => {
   return (
-    <div className="bg-pink-200">
-      <ul className="flex justify-evenly">
+    <div classNameName="bg-pink-200">
+      <ul classNameName="flex justify-evenly">
         <li>
           <Link href="/about/aboutCollege">College</Link>
         </li>

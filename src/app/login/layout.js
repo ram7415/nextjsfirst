@@ -5,7 +5,7 @@ import React from "react";
 const Layout = ({ children }) => {
   return (
     <div>
-      <ul className="flex justify-between">
+      <ul classNameName="flex justify-between">
         <li>
           <Link href="/login/loginstudent">StduentLogin</Link>
         </li>
